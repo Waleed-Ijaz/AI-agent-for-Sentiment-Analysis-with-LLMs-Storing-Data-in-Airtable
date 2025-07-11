@@ -27,6 +27,9 @@ The workflow consists of 5 main nodes:
 - Google Sheets API access
 - Google account with appropriate permissions
 
+  
+<img width="1330" height="488" alt="image" src="https://github.com/user-attachments/assets/daefb632-2369-475b-8fe5-70667e984fca" />
+
 ## 🔧 Setup Instructions
 
 ### 1. Import the Workflow
