@@ -28,7 +28,8 @@ The workflow consists of 5 main nodes:
 - Google account with appropriate permissions
 
   
-<img width="1330" height="488" alt="image" src="https://github.com/user-attachments/assets/daefb632-2369-475b-8fe5-70667e984fca" />
+<img width="1113" height="524" alt="image" src="https://github.com/user-attachments/assets/3f89723c-6706-4d48-87b3-c9af5aa6afe1" />
+
 
 ## 🔧 Setup Instructions
 
